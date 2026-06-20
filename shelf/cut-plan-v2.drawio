@@ -1,0 +1,237 @@
+<mxGraphModel dx="800" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1180" math="0" shadow="0" adaptiveColors="auto">
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+
+    <mxCell id="title" value="ディスプレイ棚 v2（奥行25cm）木取り図［鋸しろ込み］　縮尺 1mm=0.4px　集成材 1820×250×18mm" style="text;html=1;align=left;verticalAlign=middle;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="20" y="12" width="950" height="28" as="geometry"/>
+    </mxCell>
+    <mxCell id="subtitle" value="必要部品: 天板 1080×250 ×1 / 側板 732×250 ×2 / 背面横板 1044×80 ×3（250幅板を縦3分割）/ 補強材 角材30×18 長1044 ×1" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#555555;" vertex="1" parent="1">
+      <mxGeometry x="20" y="40" width="950" height="18" as="geometry"/>
+    </mxCell>
+    <mxCell id="kerfnote" value="※ 赤＝鋸しろ（パネルソー想定 1カット 3mm／図では強調表示）。端材はカット後の残り寸法。背面横板の縦割りも鋸しろ3mm×2本を考慮（80mm×3＋6mm＝246mm ≦ 250mm）。" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fontColor=#b85450;" vertex="1" parent="1">
+      <mxGeometry x="20" y="58" width="960" height="18" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p1head" value="■ パターン1（推奨）集成材2枚 + 角材1本　端材最小・最安" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#1a5276;" vertex="1" parent="1">
+      <mxGeometry x="20" y="84" width="900" height="22" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p1a_lbl" value="板①" style="text;html=1;align=right;verticalAlign=middle;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="118" width="50" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1a_top" value="天板&#10;1080×250" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="120" y="118" width="432" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1a_k1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="552" y="118" width="6" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1a_side" value="側板&#10;732×250" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="558" y="118" width="293" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1a_wt" value="端材 5mm" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fontColor=#666666;" vertex="1" parent="1">
+      <mxGeometry x="855" y="158" width="80" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1a_out" value="" style="rounded=0;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="120" y="118" width="733" height="100" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p1b_lbl" value="板②" style="text;html=1;align=right;verticalAlign=middle;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="238" width="50" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1b_side" value="側板&#10;732×250" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="120" y="238" width="293" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1b_k1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="413" y="238" width="6" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1b_b1" value="背面横板① 1044×80" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="419" y="238" width="418" height="32" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1b_rk1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="419" y="270" width="418" height="2" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1b_b2" value="背面横板② 1044×80" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="419" y="272" width="418" height="32" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1b_rk2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="419" y="304" width="418" height="2" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1b_b3" value="背面横板③ 1044×80" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="419" y="306" width="418" height="32" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1b_wt" value="端材 41mm" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fontColor=#666666;" vertex="1" parent="1">
+      <mxGeometry x="855" y="278" width="80" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1b_out" value="" style="rounded=0;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="120" y="238" width="733" height="100" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p1c_lbl" value="角材" style="text;html=1;align=right;verticalAlign=middle;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="358" width="50" height="24" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1c_r" value="補強材 角材30×18 長1044" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="120" y="358" width="418" height="24" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1c_k" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="538" y="358" width="6" height="24" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1c_w" value="端材 773mm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;dashed=1;fontColor=#666666;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="544" y="358" width="309" height="24" as="geometry"/>
+    </mxCell>
+    <mxCell id="p1c_out" value="" style="rounded=0;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="120" y="358" width="733" height="24" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p2head" value="■ パターン2　集成材2枚 + 角材1本　板取り順を反転（節・キズを避けて配置したい時）" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#1a5276;" vertex="1" parent="1">
+      <mxGeometry x="20" y="416" width="900" height="22" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p2a_lbl" value="板①" style="text;html=1;align=right;verticalAlign=middle;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="450" width="50" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2a_side" value="側板&#10;732×250" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="120" y="450" width="293" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2a_k1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="413" y="450" width="6" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2a_top" value="天板&#10;1080×250" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="419" y="450" width="432" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2a_wt" value="端材 5mm" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fontColor=#666666;" vertex="1" parent="1">
+      <mxGeometry x="855" y="490" width="80" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2a_out" value="" style="rounded=0;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="120" y="450" width="731" height="100" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p2b_lbl" value="板②" style="text;html=1;align=right;verticalAlign=middle;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="570" width="50" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2b_b1" value="背面横板① 1044×80" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="120" y="570" width="418" height="32" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2b_rk1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="120" y="602" width="418" height="2" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2b_b2" value="背面横板② 1044×80" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="120" y="604" width="418" height="32" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2b_rk2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="120" y="636" width="418" height="2" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2b_b3" value="背面横板③ 1044×80" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="120" y="638" width="418" height="32" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2b_k1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="538" y="570" width="6" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2b_side" value="側板&#10;732×250" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="544" y="570" width="293" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2b_wt" value="端材 41mm" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fontColor=#666666;" vertex="1" parent="1">
+      <mxGeometry x="855" y="610" width="80" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="p2b_out" value="" style="rounded=0;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="120" y="570" width="733" height="100" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p2note" value="角材は パターン1 と同じ（補強材1044 ＋ 鋸しろ3 ＋ 端材773）" style="text;html=1;align=left;verticalAlign=middle;fontSize=10;fontColor=#666666;" vertex="1" parent="1">
+      <mxGeometry x="120" y="676" width="450" height="20" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p3head" value="■ パターン3　集成材3枚 + 角材1本　各部品に余裕。節・カットミスの保険（材料費は集成材+1枚）" style="text;html=1;align=left;verticalAlign=middle;fontSize=13;fontStyle=1;fontColor=#7b241c;" vertex="1" parent="1">
+      <mxGeometry x="20" y="710" width="950" height="22" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p3a_lbl" value="板①" style="text;html=1;align=right;verticalAlign=middle;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="744" width="50" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3a_top" value="天板&#10;1080×250" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="120" y="744" width="432" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3a_k" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="552" y="744" width="6" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3a_w" value="端材 737mm（予備材に使える）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;dashed=1;fontColor=#666666;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="558" y="744" width="295" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3a_out" value="" style="rounded=0;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="120" y="744" width="733" height="100" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p3b_lbl" value="板②" style="text;html=1;align=right;verticalAlign=middle;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="864" width="50" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3b_s1" value="側板&#10;732×250" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="120" y="864" width="293" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3b_k1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="413" y="864" width="6" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3b_s2" value="側板&#10;732×250" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+      <mxGeometry x="419" y="864" width="293" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3b_k2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="712" y="864" width="6" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3b_w" value="端材 353mm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;dashed=1;fontColor=#666666;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="718" y="864" width="141" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3b_out" value="" style="rounded=0;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="120" y="864" width="739" height="100" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="p3c_lbl" value="板③" style="text;html=1;align=right;verticalAlign=middle;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="60" y="984" width="50" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3c_b1" value="背面横板① 1044×80" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="120" y="984" width="418" height="32" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3c_rk1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="120" y="1016" width="418" height="2" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3c_b2" value="背面横板② 1044×80" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="120" y="1018" width="418" height="32" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3c_rk2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="120" y="1050" width="418" height="2" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3c_b3" value="背面横板③ 1044×80" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+      <mxGeometry x="120" y="1052" width="418" height="32" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3c_k" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;" vertex="1" parent="1">
+      <mxGeometry x="538" y="984" width="6" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3c_w" value="端材 773mm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;dashed=1;fontColor=#666666;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="544" y="984" width="309" height="100" as="geometry"/>
+    </mxCell>
+    <mxCell id="p3c_out" value="" style="rounded=0;fillColor=none;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+      <mxGeometry x="120" y="984" width="733" height="100" as="geometry"/>
+    </mxCell>
+
+    <mxCell id="leg_t" value="凡例" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+      <mxGeometry x="120" y="1100" width="40" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="leg1" value="天板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="160" y="1100" width="64" height="22" as="geometry"/>
+    </mxCell>
+    <mxCell id="leg2" value="側板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="232" y="1100" width="64" height="22" as="geometry"/>
+    </mxCell>
+    <mxCell id="leg3" value="背面横板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="304" y="1100" width="64" height="22" as="geometry"/>
+    </mxCell>
+    <mxCell id="leg4" value="補強材(角材)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="376" y="1100" width="80" height="22" as="geometry"/>
+    </mxCell>
+    <mxCell id="leg5" value="鋸しろ3mm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e74c3c;strokeColor=#c0392b;fontColor=#ffffff;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="464" y="1100" width="72" height="22" as="geometry"/>
+    </mxCell>
+    <mxCell id="leg6" value="端材" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;dashed=1;fontColor=#666666;fontSize=10;" vertex="1" parent="1">
+      <mxGeometry x="544" y="1100" width="64" height="22" as="geometry"/>
+    </mxCell>
+
+  </root>
+</mxGraphModel>
