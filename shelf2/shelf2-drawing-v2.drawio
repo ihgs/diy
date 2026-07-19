@@ -1,0 +1,416 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="v2 正面図" id="v2page1">
+    <mxGraphModel dx="1200" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="t1" value="v2（パイン棚柱）― 正面図" style="text;html=1;fontSize=20;fontStyle=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="26" width="450" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="t2" value="単位: mm ／ 外寸 494 × 400 × 900 ／ 溝ピッチ80mm・最下段の溝80mm を仮定" style="text;html=1;fontSize=12;align=left;verticalAlign=middle;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="54" width="600" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kazari" value="既存 飾り棚" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDDDDD;strokeColor=#888888;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="10" width="290" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="shohin" value="消耗品・アタッチメント（天板の上）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF3E0;strokeColor=#7FA860;dashed=1;fontSize=10;fontColor=#4A7A2A;" vertex="1" parent="1">
+          <mxGeometry x="200" y="66" width="247" height="34" as="geometry"/>
+        </mxCell>
+        <mxCell id="floor" value="" style="line;strokeWidth=3;html=1;strokeColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="150" y="545" width="360" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="floorlbl" value="床" style="text;html=1;fontSize=11;align=left;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="512" y="543" width="40" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="postL" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C9A0;strokeColor=#7A5C33;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="14" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="postR" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C9A0;strokeColor=#7A5C33;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="433" y="100" width="14" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="postLlbl" value="支柱&#10;27×60&#10;×900" style="text;html=1;fontSize=9;align=center;fontColor=#7A5C33;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gr1" value="" style="line;strokeWidth=1;html=1;strokeColor=#B08A5A;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="470" width="247" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="gr2" value="" style="line;strokeWidth=1;html=1;strokeColor=#B08A5A;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="247" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="gr3" value="" style="line;strokeWidth=1;html=1;strokeColor=#B08A5A;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="247" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="gr4" value="" style="line;strokeWidth=1;html=1;strokeColor=#B08A5A;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="247" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="gr5" value="" style="line;strokeWidth=1;html=1;strokeColor=#B08A5A;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="247" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="gr6" value="" style="line;strokeWidth=1;html=1;strokeColor=#B08A5A;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="247" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="gr7" value="" style="line;strokeWidth=1;html=1;strokeColor=#B08A5A;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="247" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="gr8" value="" style="line;strokeWidth=1;html=1;strokeColor=#B08A5A;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="247" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="gr9" value="" style="line;strokeWidth=1;html=1;strokeColor=#B08A5A;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="247" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="grlbl" value="破線 = 使わない溝（80mmピッチ）" style="text;html=1;fontSize=9;align=left;fontColor=#B08A5A;" vertex="1" parent="1">
+          <mxGeometry x="455" y="330" width="180" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="topb" value="天板 470 × 400 × 18" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5E6C8;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="200" y="101" width="247" height="9" as="geometry"/>
+        </mxCell>
+        <mxCell id="shelf1b" value="棚板1 470 × 400 × 18" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5E6C8;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="200" y="421" width="247" height="9" as="geometry"/>
+        </mxCell>
+        <mxCell id="botb" value="底板 470 × 400 × 18" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5E6C8;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="200" y="501" width="247" height="9" as="geometry"/>
+        </mxCell>
+        <mxCell id="feedarrow" value="" style="endArrow=blockThin;html=1;strokeColor=#CC7700;strokeWidth=2;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264" y="130" as="sourcePoint"/>
+            <mxPoint x="264" y="250" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feedlbl" value="紙を上から投入" style="text;html=1;fontSize=11;align=center;fontColor=#CC7700;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="112" width="120" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="shred" value="シュレッダー&#10;w200 × h330" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D6E4F0;strokeColor=#4A7DAB;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="216" y="256" width="100" height="165" as="geometry"/>
+        </mxCell>
+        <mxCell id="tap" value="電源タップ&#10;充電アダプター" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8E8E8;strokeColor=#999999;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="325" y="351" width="105" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="box" value="道具箱 400 × 320 × 100" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8E8E8;strokeColor=#999999;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="223" y="451" width="200" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="dimBot" value="142" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=11;verticalAlign=middle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178" y="501" as="sourcePoint"/>
+            <mxPoint x="178" y="430" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dimShr" value="622" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=12;fontStyle=1;verticalAlign=middle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178" y="421" as="sourcePoint"/>
+            <mxPoint x="178" y="110" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dimFeed" value="292" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC7700;fontColor=#CC7700;fontSize=11;fontStyle=1;verticalAlign=middle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="256" as="sourcePoint"/>
+            <mxPoint x="350" y="110" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dimFeedL" value="投入に使う空間&#10;⚠ v1は376。A4長辺297に対し&#10;　 やや狭い（斜めに差せば可）" style="text;html=1;fontSize=9;align=left;fontColor=#CC7700;" vertex="1" parent="1">
+          <mxGeometry x="357" y="150" width="180" height="42" as="geometry"/>
+        </mxCell>
+        <mxCell id="dimTot" value="900" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=12;fontStyle=1;verticalAlign=middle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="550" as="sourcePoint"/>
+            <mxPoint x="545" y="100" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dimIn" value="440（内寸）" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=11;align=center;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="575" as="sourcePoint"/>
+            <mxPoint x="433" y="575" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dimOut" value="494（外寸）" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=11;align=center;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="600" as="sourcePoint"/>
+            <mxPoint x="447" y="600" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lv1" value="80" style="text;html=1;fontSize=9;align=right;fontColor=#0066AA;" vertex="1" parent="1">
+          <mxGeometry x="105" y="503" width="55" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="lv2" value="240" style="text;html=1;fontSize=9;align=right;fontColor=#0066AA;" vertex="1" parent="1">
+          <mxGeometry x="105" y="423" width="55" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="lv3" value="880" style="text;html=1;fontSize=9;align=right;fontColor=#0066AA;" vertex="1" parent="1">
+          <mxGeometry x="105" y="103" width="55" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="lvnote" value="← 使う溝の位置（床から）：80 ・ 240 ・ 880" style="text;html=1;fontSize=10;align=left;fontColor=#0066AA;" vertex="1" parent="1">
+          <mxGeometry x="60" y="625" width="360" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="footlbl" value="支柱の足元 80" style="text;html=1;fontSize=9;align=left;fontColor=#7A5C33;" vertex="1" parent="1">
+          <mxGeometry x="455" y="518" width="120" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="key" value="⚠ 棚板の幅は 470（= 内寸440 + 溝15 × 2）。v1の440で発注すると左右に隙間が空いて落ちる。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0F0;strokeColor=#CC0000;fontSize=12;fontColor=#CC0000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="650" width="600" height="34" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="v2 側面図・溝の納まり" id="v2page2">
+    <mxGraphModel dx="1200" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="s_t1" value="v2 ― 側面図 と 溝の納まり" style="text;html=1;fontSize=20;fontStyle=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="26" width="450" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_t2" value="単位: mm ／ 左が前面（玄関側）、右が壁側" style="text;html=1;fontSize=12;align=left;verticalAlign=middle;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="54" width="450" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_kazari" value="既存 飾り棚（奥行 400）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDDDDD;strokeColor=#888888;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="95" width="200" height="18" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_wall" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#888888;" vertex="1" parent="1">
+          <mxGeometry x="400" y="95" width="14" height="530" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_walllbl" value="壁" style="text;html=1;fontSize=11;align=left;fontColor=#555555;" vertex="1" parent="1">
+          <mxGeometry x="418" y="330" width="30" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_floor" value="" style="line;strokeWidth=3;html=1;strokeColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="150" y="620" width="300" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_floorlbl" value="床" style="text;html=1;fontSize=11;align=left;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="452" y="618" width="30" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_postF" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C9A0;strokeColor=#7A5C33;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="200" y="175" width="30" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_postB" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C9A0;strokeColor=#7A5C33;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="370" y="175" width="30" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_postFl" value="前の支柱&#10;60幅" style="text;html=1;fontSize=9;align=center;fontColor=#7A5C33;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="50" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_postBl" value="後の支柱&#10;60幅" style="text;html=1;fontSize=9;align=center;fontColor=#7A5C33;" vertex="1" parent="1">
+          <mxGeometry x="360" y="630" width="50" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_gap" value="280（溝なし）" style="text;html=1;fontSize=9;align=center;fontColor=#888888;" vertex="1" parent="1">
+          <mxGeometry x="252" y="630" width="96" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_top" value="天板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5E6C8;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="200" y="176" width="200" height="9" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_sh1" value="棚板1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5E6C8;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="200" y="496" width="200" height="9" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_bot" value="底板" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5E6C8;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="200" y="576" width="200" height="9" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_shred" value="シュレッダー" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D6E4F0;strokeColor=#4A7DAB;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="218" y="331" width="150" height="165" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_feed" value="" style="endArrow=blockThin;html=1;strokeColor=#CC7700;strokeWidth=2;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="210" as="sourcePoint"/>
+            <mxPoint x="293" y="325" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_feedlbl" value="紙の投入（292）" style="text;html=1;fontSize=10;align=center;fontColor=#CC7700;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="192" width="100" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_door" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9C9A3;strokeColor=#8B6F47;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="192" y="175" width="8" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_doorlbl" value="扉 15mm&#10;（外かぶせ）" style="text;html=1;fontSize=10;align=right;fontColor=#B25900;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="88" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_hinge1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CC0000;strokeColor=#880000;" vertex="1" parent="1">
+          <mxGeometry x="196" y="219" width="7" height="7" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_hinge2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CC0000;strokeColor=#880000;" vertex="1" parent="1">
+          <mxGeometry x="196" y="397" width="7" height="7" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_hinge3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CC0000;strokeColor=#880000;" vertex="1" parent="1">
+          <mxGeometry x="196" y="575" width="7" height="7" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_hingelbl" value="平蝶番 × 3&#10;支柱（27mm厚）の面に留まる&#10;→ v1の弱点が解消" style="text;html=1;fontSize=10;align=right;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="148" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_san1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8A87A;strokeColor=#6B5330;" vertex="1" parent="1">
+          <mxGeometry x="385" y="185" width="15" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_san2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8A87A;strokeColor=#6B5330;" vertex="1" parent="1">
+          <mxGeometry x="385" y="370" width="15" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_san3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8A87A;strokeColor=#6B5330;" vertex="1" parent="1">
+          <mxGeometry x="385" y="556" width="15" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_sanlbl" value="背面補強桟 30×40×440 ×3&#10;⚠ v2は側板がないため、後ろの支柱2本を&#10;　 つなぐ唯一の部材。省略不可" style="text;html=1;fontSize=11;align=left;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="260" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_open" value="背面は開けておく&#10;→ コードは壁のコンセントへ" style="text;html=1;fontSize=10;align=left;fontColor=#0066AA;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="s_dimD" value="400" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=12;fontStyle=1;align=center;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="670" as="sourcePoint"/>
+            <mxPoint x="400" y="670" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_dimH" value="900" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=12;fontStyle=1;verticalAlign=middle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="625" as="sourcePoint"/>
+            <mxPoint x="160" y="175" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_dimGap" value="160" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#008844;fontColor=#008844;fontSize=11;verticalAlign=middle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="175" as="sourcePoint"/>
+            <mxPoint x="410" y="113" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dt_lbl" value="溝の納まり（拡大・上から見た断面）" style="text;html=1;fontSize=15;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="360" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="dt_postL" value="支柱 27" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C9A0;strokeColor=#7A5C33;strokeWidth=2;fontSize=10;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="700" y="310" width="54" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="dt_postR" value="支柱 27" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C9A0;strokeColor=#7A5C33;strokeWidth=2;fontSize=10;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="310" width="54" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="dt_groove1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7A5C33;" vertex="1" parent="1">
+          <mxGeometry x="724" y="340" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="dt_groove2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7A5C33;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="340" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="dt_shelf" value="棚板　470 × 400 × 18" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5E6C8;strokeColor=#8B6F47;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="724" y="340" width="312" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="dt_d1" value="15" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=10;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="380" as="sourcePoint"/>
+            <mxPoint x="754" y="380" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dt_d2" value="15" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=10;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1006" y="380" as="sourcePoint"/>
+            <mxPoint x="1036" y="380" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dt_d3" value="440（内寸）" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=11;align=center;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="754" y="410" as="sourcePoint"/>
+            <mxPoint x="1006" y="410" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dt_d4" value="470（棚板の幅）" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=12;fontStyle=1;align=center;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724" y="440" as="sourcePoint"/>
+            <mxPoint x="1036" y="440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dt_d5" value="494（外寸）" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#CC0000;fontColor=#CC0000;fontSize=11;align=center;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="470" as="sourcePoint"/>
+            <mxPoint x="1060" y="470" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dt_note" value="棚板の幅 = 内寸440 + 溝15 × 2 = 470&#10;溝は高さ18mm（18mm厚の棚板が入る）・奥行15mm&#10;各溝にビス穴が2つ → 32mm以上のビスで留める（棚板3枚 × 4本 = 24本）" style="text;html=1;fontSize=11;align=left;fontColor=#333333;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="700" y="495" width="420" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="dt_warn" value="⚠ 差し込んだだけでは接合が回転して横揺れする。&#10;　 ビス穴は1つ残らず使うこと。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0F0;strokeColor=#CC0000;fontSize=12;fontColor=#CC0000;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="700" y="560" width="420" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="v2 カット図" id="v2page3">
+    <mxGraphModel dx="1400" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="c_t1" value="v2 ― カット図（木取り）" style="text;html=1;fontSize=20;fontStyle=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="25" width="500" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="c_t2" value="単位: mm ／ 集成材は1枚のみ。支柱はカット不要。v1にあった「端材40mmでギリギリ」の緊張がない。" style="text;html=1;fontSize=12;align=left;verticalAlign=middle;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="52" width="750" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cA_lbl" value="集成材A　メルクシパイン 1820 × 400 × 18（棚板3枚＋裏桟）　6,578円" style="text;html=1;fontSize=13;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="600" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cA1" value="天板&#10;470 × 400" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5E6C8;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="60" y="114" width="235" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="cA2" value="棚板1&#10;470 × 400" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5E6C8;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="295" y="114" width="235" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="cA3" value="底板&#10;470 × 400" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5E6C8;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="530" y="114" width="235" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="cA4" value="端材 約400 × 400&#10;→ 裏桟 380×40 を3本" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F0E4CC;strokeColor=#AAAAAA;dashed=1;fontSize=11;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="765" y="114" width="200" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="cA_b1" value="380 × 40" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8A87A;strokeColor=#6B5330;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="775" y="130" width="190" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="cA_b2" value="380 × 40" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8A87A;strokeColor=#6B5330;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="775" y="150" width="190" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="cA_b3" value="380 × 40" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8A87A;strokeColor=#6B5330;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="775" y="170" width="190" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="cA_sum" value="470 × 3 = 1410 ✓（のこ代9mmを足しても1419 ≤ 1820）　端材400×400から扉の裏桟3本が取れる" style="text;html=1;fontSize=11;align=left;fontColor=#008844;" vertex="1" parent="1">
+          <mxGeometry x="60" y="318" width="700" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="cB_lbl" value="集成材B　メルクシパイン 1820 × 250 × 15（扉・2枚接ぎ）　3,828円" style="text;html=1;fontSize=13;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="352" width="600" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cB1" value="扉板① 900 × 250 → 247 にリップ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9C9A3;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="60" y="376" width="450" height="125" as="geometry"/>
+        </mxCell>
+        <mxCell id="cB2" value="扉板② 900 × 250 → 247 にリップ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9C9A3;strokeColor=#8B6F47;strokeWidth=1.5;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="510" y="376" width="450" height="125" as="geometry"/>
+        </mxCell>
+        <mxCell id="cB3" value="端材 20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;dashed=1;fontSize=9;fontColor=#888888;" vertex="1" parent="1">
+          <mxGeometry x="960" y="376" width="10" height="125" as="geometry"/>
+        </mxCell>
+        <mxCell id="cB_sum" value="900 + 900 = 1800 ✓　落とすのは3mmずつ（v1の238より材料の使い方が良い）→ 247 + 247 = 494" style="text;html=1;fontSize=11;align=left;fontColor=#008844;" vertex="1" parent="1">
+          <mxGeometry x="60" y="505" width="700" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="cC_lbl" value="パイン棚柱　27 × 60 × 900（18ミリ対応・片溝）× 4本　約1,100円 × 4 = 約4,400円" style="text;html=1;fontSize=13;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="545" width="700" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cC1" value="支柱（前・左）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C9A0;strokeColor=#7A5C33;strokeWidth=1.5;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="569" width="225" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cC2" value="支柱（後・左）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C9A0;strokeColor=#7A5C33;strokeWidth=1.5;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="290" y="569" width="225" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cC3" value="支柱（前・右）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C9A0;strokeColor=#7A5C33;strokeWidth=1.5;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="520" y="569" width="225" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cC4" value="支柱（後・右）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C9A0;strokeColor=#7A5C33;strokeWidth=1.5;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="750" y="569" width="225" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cC_sum" value="900mm品をそのまま使う（カット不要）。溝の位置が合わない場合のみ、溝より下の無地部分を足元から詰める。" style="text;html=1;fontSize=11;align=left;fontColor=#008844;" vertex="1" parent="1">
+          <mxGeometry x="60" y="603" width="750" height="16" as="geometry"/>
+        </mxCell>
+        <mxCell id="cD_lbl" value="杉角材　30 × 40 × 1820（背面桟）　400円" style="text;html=1;fontSize=13;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="640" width="500" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cD1" value="440" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8A87A;strokeColor=#6B5330;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="664" width="220" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="cD2" value="440" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8A87A;strokeColor=#6B5330;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="664" width="220" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="cD3" value="440" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C8A87A;strokeColor=#6B5330;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="500" y="664" width="220" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="cD4" value="端材 500" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#AAAAAA;dashed=1;fontSize=10;fontColor=#888888;" vertex="1" parent="1">
+          <mxGeometry x="720" y="664" width="250" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="c_cost" value="材料費　約18,400円（側面パネルなし）／ 約20,400円（5.5mm合板の側面パネルを付けた場合）&#10;v1 は約20,600円。v2 はコスト削減の案ではなく、可動性・組み立ての容易さ・蝶番の確実さを買う案。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3E0;strokeColor=#7FA860;fontSize=12;fontColor=#3A6A1A;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="710" width="750" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="c_warn" value="⚠ 棚板は 470mm（v1は440mm）。溝に15mmずつ差し込むぶんが増える。発注時に最も間違えやすい。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0F0;strokeColor=#CC0000;fontSize=12;fontColor=#CC0000;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="772" width="750" height="34" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
